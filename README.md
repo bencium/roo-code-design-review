@@ -7,7 +7,7 @@ Click Done.
 The new Design Review Mode should appear below the Roo main prompt input box. If not, restart.
 
 
-![Design Review](https://github.com/bencium/roo-code-design-review/blob/main/images/design-review.png)
+![Design Review](https://github.com/bencium/roo-code-design-review/blob/main/design-review.png)
 
 
 # Roo Code design-review mode
