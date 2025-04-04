@@ -58,7 +58,6 @@ This specialized mode analyzes designs across five key dimensions:
 
 The mode integrates with other SPARC components by allowing delegation to coding, testing, and documentation agents. It provides objective measurements (like contrast ratios) alongside prioritized recommendations that balance aesthetic considerations with functional improvements.
 
-Would you like me to expand on any particular aspect of this design assessment mode or modify any of its capabilities?
 
 ## Enhanced
 
