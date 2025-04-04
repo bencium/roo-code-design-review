@@ -1,10 +1,12 @@
 ## Installation
 
-VS Code
+**VS Code**
 Install Roo Code plugin
-go to Prompts tab, then Modes. Click on {} Edit Modes Configuration. Copy and paste the json found in this repo. 
+go to Prompts tab, then Modes.
+Click on {} Edit Modes Configuration.
+Copy and paste the json found in this repo. 
 Click Done.
-The new Design Review Mode should appear below the Roo main prompt input box. If not, restart.
+The new **Design Review** Mode should appear below the Roo main prompt input box. If not, restart.
 
 
 ![Design Review](https://github.com/bencium/roo-code-design-review/blob/main/design-review.png)
