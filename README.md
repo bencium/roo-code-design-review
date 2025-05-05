@@ -8,6 +8,8 @@ Copy and paste the json found in this repo.
 Click Done.
 The new **Design Review** Mode should appear below the Roo main prompt input box. If not, restart.
 
+You can use it in Cursor too: [video[ (https://youtu.be/S6H_0raSMrw)
+
 
 ![Design Review](https://github.com/bencium/roo-code-design-review/blob/main/design-review.png)
 
